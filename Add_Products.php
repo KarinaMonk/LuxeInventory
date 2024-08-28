@@ -31,14 +31,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>Add Product</title>    
         <!-- Bootstrap-->
-        <link href="lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
         <!--Common Plugins CSS -->
         <link href="css/plugins/plugins.css" rel="stylesheet">
-        <link href="lib/data-tables/dataTables.bootstrap4.min.css" rel="stylesheet">
-        <link href="lib/data-tables/responsive.bootstrap4.min.css" rel="stylesheet">
+        <link href="data-tables/dataTables.bootstrap4.min.css" rel="stylesheet">
+        <link href="data-tables/responsive.bootstrap4.min.css" rel="stylesheet">
         <!--fonts-->
-        <link href="lib/line-icons/line-icons.css" rel="stylesheet">
-        <link href="lib/font-awesome/css/fontawesome-all.min.css" rel="stylesheet">
+        <link href="line-icons/line-icons.css" rel="stylesheet">
+        <link href="font-awesome/css/fontawesome-all.min.css" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
@@ -131,10 +131,10 @@
         <script type="text/javascript" src="js/plugins/plugins.js"></script> 
         <script type="text/javascript" src="js/appUi-custom.js"></script>
         <!-- Required datatable js -->
-        <script type="text/javascript" src="lib/data-tables/jquery.dataTables.min.js"></script> 
-        <script type="text/javascript" src="lib/data-tables/dataTables.bootstrap4.min.js"></script> 
-        <script type="text/javascript" src="lib/data-tables/dataTables.responsive.min.js"></script> 
-        <script type="text/javascript" src="lib/data-tables/responsive.bootstrap4.min.js"></script> 
+        <script type="text/javascript" src="data-tables/jquery.dataTables.min.js"></script> 
+        <script type="text/javascript" src="data-tables/dataTables.bootstrap4.min.js"></script> 
+        <script type="text/javascript" src="data-tables/dataTables.responsive.min.js"></script> 
+        <script type="text/javascript" src="data-tables/responsive.bootstrap4.min.js"></script> 
         <script src="js/plugins-custom/datatables-custom.js"></script>
     </body>
 </html>
